@@ -1,0 +1,61 @@
+/* body {
+    background-color: rgb(255, 255, 255);
+    display:flex;
+    justify-content: center; 
+}
+.main_div {
+    width: 368px;
+    height: 416px;
+    border: 2px solid rgb(247, 244, 244);
+    justify-content: center;
+    align-items: center;
+}
+.heading_div {
+    width: 200px;
+    height: 20px;
+    margin-top:25px;
+    padding-left:92px;
+    border-bottom: none;
+    
+}
+
+.input_div {
+    width: 184px;
+    padding-left:92px;
+    
+      
+}
+input {
+    text-align: center;
+    font-size:0.7rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5px;
+}
+
+button {
+    color:rgb(39, 192, 49);
+    cursor: pointer;
+    font-size:0.5rem;
+}
+
+.button_div {
+    width:53%;
+    display:flex;
+    justify-content: right;
+    align-items: start;
+    margin-top:10px
+
+}
+
+
+.forAddedTodoDiv {
+   
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-top:5px;
+    font-size:0.5rem;
+    width:38%;
+    height: 15px;
+    border: 2px solid rgb(247, 244, 244);
+} */

@@ -1,0 +1,49 @@
+/* 
+.main_div {
+    width: 368px;
+    height: 416px;
+    border: 2px solid rgb(247, 244, 244);
+    justify-content: center;
+    align-items: center;
+}
+.heading_div {
+    width: 200px;
+    height: 20px;
+    margin-top:25px;
+    padding-left:92px;
+    border-bottom: none;
+    
+}
+
+.input_div {
+    width: 184px;
+    padding-left:92px;
+    
+      
+}
+input {
+    text-align: center;
+    font-size:0.7rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5px;
+}
+
+button {
+    color:rgb(39, 192, 49);
+    cursor: pointer;
+    font-size:0.5rem;
+}
+.paragraph {
+    font-size:0.5rem;
+    margin-top: 0.1rem;
+}
+
+.button_div {
+    width:48%;
+    display:flex;
+    justify-content: right;
+    align-items: start;
+
+    margin-top:10px
+
+} */
